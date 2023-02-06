@@ -1,1 +1,1 @@
-# react-w4-newspaper
+# WORKSHOP 5: Periódico con newsapi.org
