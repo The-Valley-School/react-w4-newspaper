@@ -32,16 +32,6 @@ Crea un proyecto nuevo con Create React App e instalar React Router y Chakra com
 
 Revisa todos los pasos de la instalación de Chakra y no te olvides de nada, por ejemplo el ChakraProvider
 
-Deshabilita el modo estricto de React, ya que en desarrollo te causará lanzar dos peticiones en cada pintado y esto puede provocar que te bloqueen el API:
-
-```jsx
-root.render(
-  // <React.StrictMode>
-    <App />
-  // </React.StrictMode>
-);
-```
-
 **PASO 2:**
 
 Crear un componente principal "App" que actúe como contenedor de la aplicación y utilice React Router para gestionar la navegación entre diferentes páginas.
