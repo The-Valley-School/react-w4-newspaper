@@ -57,7 +57,7 @@ Haz uso de al menos estos componentes de chakra:
 
 Deberá verse de la siguiente manera:
 
-![Untitled](/assets//Untitled.png)
+![Untitled](/assets/Untitled.png)
 
 **PASO 4:**
 
@@ -71,7 +71,7 @@ Crea el componente NoticiasHome, este mostrará nos botones para navegar a cada 
 
 Deberás verse así:
 
-![Untitled](/assets//Untitled%201.png)
+![Untitled](/assets/Untitled%201.png)
 
 Deberás usar todos los siguientes componentes de Chakra que puedas.
 
@@ -89,14 +89,14 @@ La página debe estar maquetada con componentes de Chakra y debe quedar así:
 
 INICIO:
 
-![Untitled](/assets//Untitled%202.png)
+![Untitled](/assets/Untitled%202.png)
 
 FINAL:
 
-![Untitled](/assets//Untitled%203.png)
+![Untitled](/assets/Untitled%203.png)
 
 **PASO 6:**
 
 Implementa el buscador que ves en la parte superior de la página de manera que se filtren los artículos mostrados en pantalla solo si el título contiene el texto buscado, por ejemplo:
 
-![Untitled](/assets//Untitled%204.png)
+![Untitled](/assets/Untitled%204.png)
